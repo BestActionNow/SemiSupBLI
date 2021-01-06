@@ -3,7 +3,7 @@
 In this repository, We present the implementation of our two poposed semi-supervised approches **CSS** and **PSS** for BLI. 
 
 ## Dependencies
-* python 3
+* python 3.7
 * Pytorch
 * Numpy 
 * Faiss
